@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 /GarbageDataset
 GarbageDataset.zip
+*.zip
+Individual Datasets/
