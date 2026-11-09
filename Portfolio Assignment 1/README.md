@@ -72,9 +72,11 @@ In the end, the following dataset was achieved after augmentation:
 **Note**: The biodegradable class was deliberately oversampled due to the high intra-class variance.
 
 The final split for the datasets before augmentation is 70%, 20%, 10% for training, validation and testing respectively.
+The distribution of the augmented dataset is now: 84.4%, 10.4%, 5.2%.
+**Note**: Only the images in the training dataset are augmented. Validation and testing datasets remain the same in terms of size.
 - train: 17,042 images
 - valid: 2,093 images
-- test: 872 images
+- test: 1,047 images
 
 # Possible Improvements
 1. Implement subclasses within the biodegradable class. Problem: images are difficult to sort and re-classify along subclasses
