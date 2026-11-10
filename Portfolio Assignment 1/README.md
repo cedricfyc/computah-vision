@@ -36,13 +36,13 @@ The following table was aimed for the balanced augmented dataset.
 
 The following augmentations were applied:
 
-1. Version Preprocessing
+1. **Version Preprocessing**
 - Auto-Orient
 - Stretch to 512*512
 
 The 512\*512 is expected to display more of the image compared to the 416\*416 although it would make the fine-tuning process more computationally expensive.
 
-2. Version Augmentations
+2. **Version Augmentations**
 - Outputs per training example: 3
 - Rotation: Between -5° and +5°
 - Saturation: Between -10% and +10%
@@ -73,7 +73,9 @@ In the end, the following dataset was achieved after augmentation:
 
 The final split for the datasets before augmentation is 70%, 20%, 10% for training, validation and testing respectively.
 The distribution of the augmented dataset is now: 84.4%, 10.4%, 5.2%.
+
 **Note**: Only the images in the training dataset are augmented. Validation and testing datasets remain the same in terms of size.
+
 - train: 17,042 images
 - valid: 2,093 images
 - test: 1,047 images
