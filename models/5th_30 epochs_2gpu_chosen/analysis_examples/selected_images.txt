@@ -1,0 +1,15 @@
+CORRECT
+  glass1940_jpg.rf.0b5b565afdae26aa5207ad10246220aa.jpg
+  plastic499_jpg.rf.f92e62a629adfb578849e6e9d61184e3.jpg
+  biodegradable1228_jpg.rf.3d209d9e3282a5e1239c72b2b920a410.jpg
+
+MISSED
+  biodegradable355_jpg.rf.3c7cd3ba39e6d521d093c7d48ff2a275.jpg
+  cardboard1232_jpg.rf.b2d79662ed57c0a1d2d4a0cb5ce3f163.jpg
+  glass2289_jpg.rf.e8867131649d9703883513b205dac57b.jpg
+
+INCORRECT
+  cardboard1762_jpg.rf.fc8a8d268e18702bd4c0bd63e72e95b0.jpg
+  paper1198_jpg.rf.66846702b2b29b75940613a38789d70d.jpg
+  paper822_jpg.rf.561119684e0810c697966294a74e4520.jpg
+
