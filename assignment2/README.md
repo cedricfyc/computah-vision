@@ -159,9 +159,9 @@ Distances and sizes in the 2D plot are distorted, so the plot is only used to ju
 
 ---
 
-## 6. Question 4: Evaluating the Embedding
+## 4. Question 4: Evaluating the Embedding
 
-### 6.1 Options
+### 4.1 Options
 
 | Metric | Definition | What it measures | Problem for this dataset |
 |---|---|---|---|
