@@ -174,7 +174,7 @@ Distances and sizes in the 2D plot are distorted, so the plot is only used to ju
 | **NMI / ARI** | How well automatic clusters match the true classes | Overall cluster quality | Assume one compact cluster per class |
 | **Silhouette score** | Compactness of clusters versus separation between them | Cluster shape | Assumes one compact cluster per class |
 
-### 6.2 Chosen metric: Precision@K with K = 10
+### 4.2 Chosen metric: Precision@K with K = 10
 
 **Approach**
 Take one test image and look at its 10 closest images in the gallery. Count how many of them have the same class as the test image, and divide by 10. Do this for every test image and take the average.
