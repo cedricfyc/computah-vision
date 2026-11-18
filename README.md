@@ -28,10 +28,10 @@ The assignment entailed the following steps:
 The goal of the assignment was to explore how Deep Metric Learning can improve waste detection and sorting by identifying similarities and differences between waste objects.
 
 The assignment entailed the following steps:
-- Analysis of the waste dataset and its categories.
-- Selection of a suitable learning approach.
+- Selection of Suitable Loss Function(Triplet Loss) and explanation of its principle and objective.
 - Design of a strategy for selecting training samples.
-- Development of a theoretical approach for grouping similar waste objects.
+- Development of a sampling strategy based on the dataset’s class imbalance and visual variation.
+- Discussing how sampling influences training and the resulting embedding space.
 - Analysis and visualisation of the resulting embedding space.
 - Evaluation of how well the approach can identify and distinguish waste categories.
 Note: The assignment focused on theoretical concepts and methods, without implementing or training a model.
