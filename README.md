@@ -1,4 +1,4 @@
-# Computah Vision Project
+# Computer Vision Project
 
 This is a computer vision project part of the course Computer Vision offered at CAIRO.thws by Prof. Dr. Dominik Seuß. It consists of two assignments with multiple sub-parts each.
 
