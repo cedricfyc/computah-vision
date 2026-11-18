@@ -29,7 +29,7 @@ The goal of the assignment was to explore how Deep Metric Learning can improve w
 
 The assignment entailed the following steps:
 - Selection of Suitable Loss Function(Triplet Loss) and explanation of its principle and objective.
-- Design of a strategy for selecting training samples.
+- Design a strategy for selecting training samples.
 - Development of a sampling strategy based on the dataset’s class imbalance and visual variation.
 - Discussing how sampling influences training and the resulting embedding space.
 - Analysis and visualisation of the resulting embedding space.
