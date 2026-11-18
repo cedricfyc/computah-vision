@@ -1,0 +1,16 @@
+{
+  "fifth_model": {
+    "metrics/precision(B)": 0.687048955260666,
+    "metrics/recall(B)": 0.52693988026323,
+    "metrics/mAP50(B)": 0.5702771253926634,
+    "metrics/mAP50-95(B)": 0.3693708292224213,
+    "fitness": 0.3693708292224213
+  },
+  "seventh_model": {
+    "metrics/precision(B)": 0.6997013086064857,
+    "metrics/recall(B)": 0.5006425256685959,
+    "metrics/mAP50(B)": 0.5583122653703151,
+    "metrics/mAP50-95(B)": 0.38546066442957794,
+    "fitness": 0.38546066442957794
+  }
+}
